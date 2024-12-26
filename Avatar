@@ -7,7 +7,7 @@
     background-color: #000;
     border: 2px dashed #8a2be2;
   }
-
+ 
   .avatar-item {
     display: flex;
     justify-content: center;
